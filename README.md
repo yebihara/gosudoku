@@ -1,0 +1,2 @@
+# gosudoku
+personal Go practice
